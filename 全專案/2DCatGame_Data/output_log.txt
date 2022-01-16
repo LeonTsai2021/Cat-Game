@@ -1,0 +1,134 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.414300 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.238600 ms (FindLiveObjects: 0.050200 ms CreateObjectMapping: 0.031900 ms MarkObjects: 0.144900 ms  DeleteObjects: 0.010800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.671700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.211400 ms (FindLiveObjects: 0.045100 ms CreateObjectMapping: 0.017100 ms MarkObjects: 0.142000 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.633300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.246900 ms (FindLiveObjects: 0.070100 ms CreateObjectMapping: 0.020400 ms MarkObjects: 0.149100 ms  DeleteObjects: 0.006600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.207000 ms (FindLiveObjects: 0.047800 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.138300 ms  DeleteObjects: 0.004600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.638700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.203200 ms (FindLiveObjects: 0.042600 ms CreateObjectMapping: 0.015800 ms MarkObjects: 0.139600 ms  DeleteObjects: 0.004700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.682700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.200800 ms (FindLiveObjects: 0.044800 ms CreateObjectMapping: 0.015800 ms MarkObjects: 0.135400 ms  DeleteObjects: 0.004300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.206700 ms (FindLiveObjects: 0.046200 ms CreateObjectMapping: 0.015500 ms MarkObjects: 0.140000 ms  DeleteObjects: 0.004400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.696000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.242600 ms (FindLiveObjects: 0.047800 ms CreateObjectMapping: 0.018300 ms MarkObjects: 0.170500 ms  DeleteObjects: 0.005400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1437.
+Total: 0.217800 ms (FindLiveObjects: 0.050300 ms CreateObjectMapping: 0.016100 ms MarkObjects: 0.146100 ms  DeleteObjects: 0.004700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.742200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1437.
+Total: 0.218500 ms (FindLiveObjects: 0.048900 ms CreateObjectMapping: 0.015900 ms MarkObjects: 0.148600 ms  DeleteObjects: 0.004600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.782800 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2422.
+Total: 0.368200 ms (FindLiveObjects: 0.093100 ms CreateObjectMapping: 0.042800 ms MarkObjects: 0.220900 ms  DeleteObjects: 0.010500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.861000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2422.
+Total: 0.362900 ms (FindLiveObjects: 0.118300 ms CreateObjectMapping: 0.028500 ms MarkObjects: 0.210400 ms  DeleteObjects: 0.004900 ms)
+
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Leon45la\OneDrive\桌面\作品集\unity final\全專案\2DCatGame_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358600 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.228200 ms (FindLiveObjects: 0.050100 ms CreateObjectMapping: 0.024500 ms MarkObjects: 0.142400 ms  DeleteObjects: 0.010600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.660400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1235.
+Total: 0.289100 ms (FindLiveObjects: 0.102500 ms CreateObjectMapping: 0.018700 ms MarkObjects: 0.161000 ms  DeleteObjects: 0.006100 ms)
+
